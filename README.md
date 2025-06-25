@@ -28,8 +28,11 @@ You store the value 10 inside that reserved memory location.
 
 
 💾 Memory Representation
-Variable Name	Type	Size in Memory	Stored Value (Decimal)	Stored Value (Binary)
-a	byte	1 byte (8 bits)	10	00001010
+
+| Variable Name | Type | Size in Memory  | Stored Value (Decimal) | Stored Value (Binary) |
+| ------------- | ---- | --------------- | ---------------------- | --------------------- |
+| `a`           | byte | 1 byte (8 bits) | `10`                   | `00001010`            |
+
 
 📌 Important Notes
 A byte in Java can hold values from -128 to +127.
